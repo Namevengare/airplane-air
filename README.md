@@ -33,3 +33,28 @@ Todos los archivos CSS están organizados en la carpeta `src/style/`:
 - `FlightSelection.css` - Estilos de las tarjetas de vuelos
 - `BookingConfirmation.css` - Estilos de la página de confirmación
 - `App.css` - Estilos globales del contenedor principal
+
+## Aeropuertos Disponibles
+
+| Código | Aeropuerto | Ciudad | País |
+|--------|-----------|---------|------|
+| JFK | John F. Kennedy International Airport | New York | USA |
+| LAX | Los Angeles International Airport | Los Angeles | USA |
+| ORD | O'Hare International Airport | Chicago | USA |
+| LHR | London Heathrow Airport | London | UK |
+| CDG | Charles de Gaulle Airport | Paris | France |
+| NRT | Narita International Airport | Tokyo | Japan |
+| DXB | Dubai International Airport | Dubai | UAE |
+| SIN | Singapore Changi Airport | Singapore | Singapore |
+| HKG | Hong Kong International Airport | Hong Kong | China |
+| SYD | Sydney Kingsford Smith Airport | Sydney | Australia |
+| FRA | Frankfurt Airport | Frankfurt | Germany |
+| AMS | Amsterdam Airport Schiphol | Amsterdam | Netherlands |
+| MAD | Adolfo Suárez Madrid-Barajas Airport | Madrid | Spain |
+| BCN | Barcelona-El Prat Airport | Barcelona | Spain |
+| MIA | Miami International Airport | Miami | USA |
+| SFO | San Francisco International Airport | San Francisco | USA |
+| SEA | Seattle-Tacoma International Airport | Seattle | USA |
+| YYZ | Toronto Pearson International Airport | Toronto | Canada |
+| MEX | Mexico City International Airport | Mexico City | Mexico |
+| GRU | São Paulo/Guarulhos International Airport | São Paulo | Brazil |
