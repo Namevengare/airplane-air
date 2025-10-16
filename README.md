@@ -59,11 +59,11 @@ Todos los archivos CSS están organizados en la carpeta `src/style/`:
 | MEX | Mexico City International Airport | Mexico City | Mexico |
 | GRU | São Paulo/Guarulhos International Airport | São Paulo | Brazil |
 
-## Enlaze netlify
+## Enlace netlify
 
 https://book-flightrn.netlify.app/
 
-## Enlaze github
+## Enlace github
 
 https://github.com/Namevengare/airplane-air
 
