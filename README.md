@@ -63,6 +63,10 @@ Todos los archivos CSS están organizados en la carpeta `src/style/`:
 
 https://book-flightrn.netlify.app/
 
+Permalink
+
+https://68f0532a852d5400086699cc--book-flightrn.netlify.app/
+
 ## Enlace github
 
 https://github.com/Namevengare/airplane-air
