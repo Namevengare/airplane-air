@@ -29,6 +29,7 @@ form {
   flex-direction: column;
   gap: 0.5rem;
   text-align: left;
+  position: relative;
 }
 
 .form-row {
@@ -65,6 +66,46 @@ input::placeholder {
   color: rgba(255, 255, 255, 0.4);
 }
 
+.error-message {
+  color: #ff4444;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.airport-suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #2a2a2a;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+  margin-top: 0.25rem;
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 100;
+}
+
+.airport-suggestion {
+  padding: 0.75rem;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.airport-suggestion:hover {
+  background: rgba(100, 108, 255, 0.2);
+}
+
+.airport-suggestion-name {
+  font-weight: 500;
+  color: #fff;
+}
+
+.airport-suggestion-code {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.6);
+}
+
 .btn-primary {
   padding: 1rem;
   background: #646cff;
@@ -80,6 +121,11 @@ input::placeholder {
 
 .btn-primary:hover {
   background: #535bf2;
+}
+
+.btn-primary:disabled {
+  background: #444;
+  cursor: not-allowed;
 }
 
 @media (max-width: 640px) {
