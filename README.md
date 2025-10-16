@@ -58,3 +58,14 @@ Todos los archivos CSS están organizados en la carpeta `src/style/`:
 | YYZ | Toronto Pearson International Airport | Toronto | Canada |
 | MEX | Mexico City International Airport | Mexico City | Mexico |
 | GRU | São Paulo/Guarulhos International Airport | São Paulo | Brazil |
+
+## Enlace netlify
+
+https://book-flightrn.netlify.app/
+
+## Enlace github
+
+https://github.com/Namevengare/airplane-air
+
+## Imagen PR
+<img width="2547" height="759" alt="image" src="https://github.com/user-attachments/assets/585f8be9-6019-4831-936c-71ddfa87a979" />
